@@ -270,7 +270,7 @@ const Menu = () => {
               Resume
             </a>
             <a href="https://vminachenko.netlify.app/" className="link">
-            English
+              English
             </a>
           </nav>
         </StyledSidebar> 
