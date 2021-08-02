@@ -57,7 +57,9 @@ const Hero = () => {
     const timeout = setTimeout(() => setIsMounted(true), navDelay);
     return () => clearTimeout(timeout);
   }, []);
-
+  
+  
+  const zero = <h1></h1>; 
   const one = <h1>
   Привет, меня зовут</h1>;
   const two = <h2 className="big-heading">Вячеслав Миначенко</h2>;
