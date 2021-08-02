@@ -25,25 +25,25 @@ import SFMonoSemiboldItalicWoff from '@fonts/SFMono/SFMono-SemiboldItalic.woff';
 import SFMonoSemiboldItalicWoff2 from '@fonts/SFMono/SFMono-SemiboldItalic.woff2';
 
 const calibreNormalWeights = {
-  400: [CalibreRegularWoff, CalibreRegularWoff2],
-  500: [CalibreMediumWoff, CalibreMediumWoff2],
-  600: [CalibreSemiboldWoff, CalibreSemiboldWoff2],
+  250: [CalibreRegularWoff, CalibreRegularWoff2],
+  300: [CalibreMediumWoff, CalibreMediumWoff2],
+  400: [CalibreSemiboldWoff, CalibreSemiboldWoff2],
 };
 
 const calibreItalicWeights = {
-  400: [CalibreRegularItalicWoff, CalibreRegularItalicWoff2],
-  500: [CalibreMediumItalicWoff, CalibreMediumItalicWoff2],
-  600: [CalibreSemiboldItalicWoff, CalibreSemiboldItalicWoff2],
+  250: [CalibreRegularItalicWoff, CalibreRegularItalicWoff2],
+  300: [CalibreMediumItalicWoff, CalibreMediumItalicWoff2],
+  400: [CalibreSemiboldItalicWoff, CalibreSemiboldItalicWoff2],
 };
 
 const sfMonoNormalWeights = {
-  400: [SFMonoRegularWoff, SFMonoRegularWoff2],
-  600: [SFMonoSemiboldWoff, SFMonoSemiboldWoff2],
+  300: [SFMonoRegularWoff, SFMonoRegularWoff2],
+  500: [SFMonoSemiboldWoff, SFMonoSemiboldWoff2],
 };
 
 const sfMonoItalicWeights = {
-  400: [SFMonoRegularItalicWoff, SFMonoRegularItalicWoff2],
-  600: [SFMonoSemiboldItalicWoff, SFMonoSemiboldItalicWoff2],
+  300: [SFMonoRegularItalicWoff, SFMonoRegularItalicWoff2],
+  500: [SFMonoSemiboldItalicWoff, SFMonoSemiboldItalicWoff2],
 };
 
 const calibre = {
