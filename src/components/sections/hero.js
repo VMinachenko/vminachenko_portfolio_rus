@@ -59,7 +59,8 @@ const Hero = () => {
   }, []);
   
   
-  const zero = <h1></h1>; 
+  const zero = <h1 style="visibility: hidden;"> 
+	Some invisible text </h1>; 
   const one = <h1>
   Привет, меня зовут</h1>;
   const two = <h2 className="big-heading">Вячеслав Миначенко</h2>;
