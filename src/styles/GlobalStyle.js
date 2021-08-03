@@ -142,6 +142,7 @@ const GlobalStyle = createGlobalStyle`
   h4,
   h5,
   h6 {
+    margin-top: 20 px;  
     margin: 0 0 10px 0;
     font-weight: 600;
     color: var(--lightest-slate);
